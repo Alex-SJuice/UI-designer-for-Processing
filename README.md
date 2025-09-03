@@ -1,6 +1,6 @@
 # UI-designer-for-Processing
- an expandible system for designing and using GUI in Processing projects. it's VERY much a WIP and it is very bare bones currently. If you have any suggestions on what to add, please tell me
-#the controls for the designer are as follows:
+ an expandible system for designing and using GUI in Processing projects. it's VERY much a WIP and it is very bare bones currently. If you have any suggestions on hat to add, please tell me
+\nthe controls for the designer are as follows:
 #b for button placing
 s for slider placing
 t for text display placing
